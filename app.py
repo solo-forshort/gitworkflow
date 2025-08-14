@@ -12,5 +12,5 @@ def divideFunction(x, y):
         return x / y
     else:
         return "Division by zero error"
-    
 
+print(divideFunction(5, 8))
